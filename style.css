@@ -13,7 +13,7 @@
     margin: 20px auto;
     border: solid black 1px;
 }
-#one {
+.sim {
     width: 80px;
     height: 110px;
     content: "♠";
@@ -28,7 +28,7 @@
     font-size: 230px;
     float: right;
 }
-#two {
+.simbols {
     width: 100px;
     height: 100px;
     content: "♠";
