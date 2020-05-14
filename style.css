@@ -1,0 +1,42 @@
+.total {
+    background-color: darkgreen;
+    padding: 0px;
+    margin: 150px auto;
+
+}           
+
+.target{
+    background-color: white;
+    height: 500px;
+    width: 350px;
+    border-radius: 10px;
+    margin: 20px auto;
+    border: solid black 1px;
+}
+#one {
+    width: 80px;
+    height: 110px;
+    content: "♠";
+    font-size: 100px;
+    float: left;
+    margin-left: 25px;
+    contain: content;
+}
+.number{
+    text-align: center;
+    width: 350px;
+    font-size: 230px;
+    float: right;
+}
+#two {
+    width: 100px;
+    height: 100px;
+    content: "♠";
+    font-size: 100px;
+    float: right;
+    margin-right: 27px;
+    margin-top: 27px;
+    transform: rotate(180deg);
+    contain: content;
+
+}
